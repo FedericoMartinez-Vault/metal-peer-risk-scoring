@@ -1,0 +1,8 @@
+model,mae,r2,spearman_claims,accuracy,f1,auc
+ElasticNet,7.953,-0.043,0.21,,,
+Gradient Boosting,7.9,-0.012,0.024,,,
+KNN (k=15),7.982,0.019,0.021,0.816,0.08,0.549
+Logistic Regression,,,,0.776,0.125,0.599
+Peer-group (holdout),0.0,1.0,0.116,1.0,1.0,1.0
+Random Forest,7.647,0.086,0.068,0.816,0.0,0.488
+Ridge,7.984,-0.06,0.212,,,

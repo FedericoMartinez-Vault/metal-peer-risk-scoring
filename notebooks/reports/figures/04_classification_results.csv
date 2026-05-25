@@ -1,0 +1,5 @@
+model,family,accuracy,f1,auc
+Peer-group (holdout),Reference,1.0,1.0,1.0
+Logistic Regression,Classification,0.776,0.125,0.599
+KNN (k=15),Classification,0.816,0.08,0.549
+Random Forest,Classification,0.816,0.0,0.488

@@ -1,0 +1,7 @@
+model,family,mae,rmse,r2,spearman_claims
+Peer-group (holdout),Reference,0.0,0.0,1.0,0.116
+Random Forest,Regression,7.647,9.23,0.086,0.068
+Gradient Boosting,Regression,7.9,9.714,-0.012,0.024
+ElasticNet,Regression,7.953,9.859,-0.043,0.21
+KNN (k=15),Regression,7.982,9.562,0.019,0.021
+Ridge,Regression,7.984,9.942,-0.06,0.212
